@@ -10,8 +10,14 @@ Highlights:
 
 Features
 Top Performers: Visualizes top run-scorers, wicket-takers, most sixes, and most fours.
+
 Team Statistics: Displays the number of matches won by each team and trophy count.
-Player Analysis: Allows searching for specific players to view their batting and bowling stats, including runs, wickets, strike rate, economy, and much more.
+
+Player Analysis: Allows searching for specific players to view their batting and bowling stats, 
+including runs, wickets, strike rate, economy, and much more.
+
 Season Insights: Provides an overview of performances across different IPL seasons.
+
 Match Correlations: Shows correlations between toss decisions and match outcomes.
+
 Interactive Charts: Engaging visualizations for a better understanding of complex data.
